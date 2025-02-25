@@ -8,8 +8,6 @@ This repo hosts all the assignments, tests and notes taken from the [elvtr AI So
 
 ## Search an image or video
 
-https://aws.amazon.com/blogs/machine-learning/implement-serverless-semantic-search-of-image-and-live-video-with-amazon-titan-multimodal-embeddings/
-
 https://github.com/aws-samples/Serverless-Semantic-Video-Search-Vector-Database-and-a-Multi-Modal-Generative-Al-Embeddings-Model
 
 ![Search image and live video using LLM](images/search-image-and-live-video.png)
