@@ -2,7 +2,7 @@
 
 ## Description
 
-This repo hosts all the assignments, tests and notes taken from the [elvtr AI Solution Architect Certification](https://uk.elvtr.com/course/ai-solutions-architecture) from beggining of 2025.
+This repo hosts all the assignments, tests and notes taken from the [elvtr AI Solution Architect Certification](https://uk.elvtr.com/course/ai-solutions-architecture) completed beggining of the year 2025.
 
 ## Additional resources
 
@@ -25,16 +25,3 @@ http://github.com/aws-samples/amazon-bedrock-workshop
 https://github.com/build-on-aws/bedrock-agents-infer-models
 
 ![Bedrock agent infer other LLM models](images/bedrock-agent-infer-models.png)
-
----
-
-## Sync the Fork with the Original Git Repository
-
-```sh
-# Add a new remote upstream repository
-git remote add upstream https://github.com/toby-fotherby/elvtr-ai-solution-architect.git
-
-# Sync your fork
-git fetch upstream
-git merge upstream/master
-```
